@@ -1,0 +1,6 @@
+The dashboard from hopkins it's great but it needs more drill down capabilites
+Plan:
+Report all the cases, live update if possible
+Narrow down analysis to US
+Do a flow or kansey viz of location path
+Compare confirmed cases to SARS
