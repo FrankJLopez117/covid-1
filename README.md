@@ -1,2 +1,2 @@
-# covid-1
-Data analysis and visualizations on covid-1
+# covid-19
+Data analysis and visualizations on covid-19
