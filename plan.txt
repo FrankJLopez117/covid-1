@@ -4,3 +4,5 @@ Report all the cases, live update if possible
 Narrow down analysis to US
 Do a flow or kansey viz of location path
 Compare confirmed cases to SARS
+Do a timelapse of infection / confirmed cases
+Try to get a news feed
